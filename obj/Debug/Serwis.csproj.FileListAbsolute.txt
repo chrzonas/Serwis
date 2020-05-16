@@ -1,0 +1,13 @@
+C:\Users\Mateusz\source\repos\Serwis\Serwis\bin\Debug\Serwis.exe.config
+C:\Users\Mateusz\source\repos\Serwis\Serwis\bin\Debug\Serwis.exe
+C:\Users\Mateusz\source\repos\Serwis\Serwis\bin\Debug\Serwis.pdb
+C:\Users\Mateusz\source\repos\Serwis\Serwis\obj\Debug\Serwis.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\Serwis\Serwis\obj\Debug\Serwis.Form1.resources
+C:\Users\Mateusz\source\repos\Serwis\Serwis\obj\Debug\Serwis.Properties.Resources.resources
+C:\Users\Mateusz\source\repos\Serwis\Serwis\obj\Debug\Serwis.csproj.GenerateResource.cache
+C:\Users\Mateusz\source\repos\Serwis\Serwis\obj\Debug\Serwis.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\Serwis\Serwis\obj\Debug\Serwis.exe
+C:\Users\Mateusz\source\repos\Serwis\Serwis\obj\Debug\Serwis.pdb
+C:\Users\Mateusz\source\repos\Serwis\Serwis\obj\Debug\Serwis.Form2.resources
+C:\Users\Mateusz\source\repos\Serwis\Serwis\bin\Debug\database.mdf
+C:\Users\Mateusz\source\repos\Serwis\Serwis\bin\Debug\database_log.ldf
