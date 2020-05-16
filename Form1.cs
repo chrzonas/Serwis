@@ -27,5 +27,11 @@ namespace Serwis
             Form2 add_client = new Form2();
             add_client.ShowDialog();
         }
+
+        private void Button_settings_Click(object sender, EventArgs e)
+        {
+            Form3 settings = new Form3();
+            settings.ShowDialog();
+        }
     }
 }

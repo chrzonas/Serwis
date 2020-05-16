@@ -11,3 +11,4 @@ C:\Users\Mateusz\source\repos\Serwis\Serwis\obj\Debug\Serwis.pdb
 C:\Users\Mateusz\source\repos\Serwis\Serwis\obj\Debug\Serwis.Form2.resources
 C:\Users\Mateusz\source\repos\Serwis\Serwis\bin\Debug\database.mdf
 C:\Users\Mateusz\source\repos\Serwis\Serwis\bin\Debug\database_log.ldf
+C:\Users\Mateusz\source\repos\Serwis\Serwis\obj\Debug\Serwis.Form3.resources

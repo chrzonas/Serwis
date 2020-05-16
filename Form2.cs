@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -73,6 +74,8 @@ namespace Serwis
             string city = textBox_city.Text;
             string zip_code = textBox_zip_code.Text;
             string post_office = textBox_post_office.Text;
+
+            String query = "INSERT INTO dbo.Clients (name, surname, tel, street, house_number, apartment_number, city, zip_code, post_office) VALUES (@name, @surname, @tel, @street, @house_number, @apartment_number, @city, @zip_code, @post_office)";
         }
     }
 }

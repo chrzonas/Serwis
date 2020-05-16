@@ -84,6 +84,7 @@
             this.button_settings.TabIndex = 4;
             this.button_settings.Text = "Ustawienia";
             this.button_settings.UseVisualStyleBackColor = true;
+            this.button_settings.Click += new System.EventHandler(this.Button_settings_Click);
             // 
             // button_exit
             // 
